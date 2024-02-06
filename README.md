@@ -1,2 +1,0 @@
-# krish-chethu
-spring-boot
